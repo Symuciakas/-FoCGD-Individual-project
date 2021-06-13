@@ -1,0 +1,2 @@
+{"id":0,"name":"Slash","description":"Basic slash. Inflicts low physical damage.","harmful":true,"aoe":false,"type":1,"target":1,"mult":1.0,"effects":[]}
+{"id":1,"name":"DarkExplosion","description":"Mystical explosion filled with darkness. Where does this power come from?","harmful":true,"aoe":true,"type":2,"target":1,"mult":2.0,"effects":[]}

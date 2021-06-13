@@ -1,0 +1,2 @@
+{"id":1001,"name":"Stupid Grunt","lines":["Hurrr durr...","Battle"],"position":{"x":10.0,"y":-4.0},"background":"ForestBattle1","enemyIds":[1001],"enemyLvls":[1],"cutsceneBefore":"null","cutsceneAfter":"TutCatSEnc"}
+{"id":1002,"name":"Bunch of stupid Grunts","lines":["What are you doing?!","Give that back!"],"position":{"x":14.0,"y":-12.0},"background":"ForestBattle1","enemyIds":[1001, 1001, 1001],"enemyLvls":[1, 1, 1],"cutsceneBefore":"null","cutsceneAfter":"null"}
